@@ -1,0 +1,28 @@
+h1{
+    font-size:40px !important;
+}
+.btn-primary:hover{
+    background-color: rgb(227, 231, 16);
+}
+canvas{
+    animation-name:earing;
+    animation-duration:6s;
+    animation-iteration-count:infinite;
+}
+@keyframes earing{
+    from{box-shadow:1px 1px 40px rgb(35, 76, 211);}
+to{box-shadow: 1px 1px 40px rgb(0, 255, 149);}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
